@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Warwick Harp</title>
+    <link>https://www.warwickharp.co.uk/</link>
+    <description>Performances including Caitlin Hughes</description>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en-gb</language>
+    <pubDate>Sat, 20 Feb 2021 13:30:00 +0000</pubDate>
+    <lastBuildDate>Sat, 20 Feb 2021 13:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.warwickharp.co.uk/images/artwork.png</url>
+      <title>Warwick Harp</title>
+      <link>https://www.warwickharp.co.uk/</link>
+    </image>
+    <itunes:author>Caitlin Hughes</itunes:author>
+    <itunes:subtitle>Performances including Caitlin Hughes</itunes:subtitle>
+    <itunes:summary>Performances including Caitlin Hughes</itunes:summary>
+    <itunes:keywords>harp, warwick, caitlin, hughes</itunes:keywords>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://www.warwickharp.co.uk/images/artwork.png"/>
+    <itunes:owner>
+      <itunes:name>Caitlin Hughes</itunes:name>
+      <itunes:email>contact@warwickharp.co.uk</itunes:email>
+    </itunes:owner>
+    <itunes:block>no</itunes:block>
+    <itunes:category text="Performing Arts"/>
+    <item>
+      <title>Concerto for Two Violins in D Minor</title>
+      <description>Caitlin performs on the violin with Alex Laing</description>
+      <enclosure url="https://www.warwickharp.co.uk/videos/concerto-for-two-violins-in-d-minor.m4v" length="61660636" type="video/mp4"/>
+      <guid isPermaLink="false">concerto-for-two-violins-in-d-minor</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Jesukin</title>
+      <description>Caitlin accompanies Oliver Simcock during his performance of Jesukin</description>
+      <enclosure url="https://www.warwickharp.co.uk/videos/jesukin-accompany.m4v" length="26259776" type="video/mp4"/>
+      <guid isPermaLink="false">jesukin-accompany</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
