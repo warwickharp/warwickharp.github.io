@@ -4,7 +4,6 @@
     <title>Warwick Harp</title>
     <link>https://www.warwickharp.co.uk/</link>
     <description>Performances including Caitlin Hughes</description>
-    <category>Arts > Performing Arts</category>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en-gb</language>
     <pubDate>Sat, 20 Feb 2021 13:30:00 +0000</pubDate>
@@ -25,7 +24,9 @@
       <itunes:email>contact@warwickharp.co.uk</itunes:email>
     </itunes:owner>
     <itunes:block>no</itunes:block>
-    <itunes:category text="Arts &gt; Performing Arts"/>
+    <itunes:category text="Arts">
+      <itunes:category text="Performing Arts" />
+    </itunes:category>
     <item>
       <title>Concerto for Two Violins in D Minor</title>
       <description>Caitlin performs on the violin with Alex Laing</description>
